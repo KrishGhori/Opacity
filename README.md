@@ -1,5 +1,3 @@
-# Opacity
-
 # Image Opacity Hover Effect
 
 ## Project Description
