@@ -28,6 +28,27 @@ When the user moves the mouse over an image, its transparency changes smoothly u
 * When the user hovers over it, it becomes **fully visible (opacity 1)**.
 * CSS `transition` is used to make the effect smooth.
 
+## Project Structure
+
+```
+project-folder
+│
+├── index.html
+├── image1.jpg
+├── image2.jpg
+└── README.md
+```
+
+## Usage
+
+1. Download or clone the repository.
+2. Open `index.html` in any web browser.
+3. Move the mouse over the images to see the opacity effect.
+
+## Output
+
+* Image transparency changes on hover.
+* Smooth fade-in and fade-out animation.
 
 ## Author
 
